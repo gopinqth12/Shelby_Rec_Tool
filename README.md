@@ -1,5 +1,5 @@
 # Shelby_Rec_Tool
-🖤 Shelby Recovery Tool v1.5 ⚡
+🖤 Shelby Recovery Tool v1.6.0 ⚡
 
 A New Chapter in Android Device Utilities
 
@@ -21,7 +21,7 @@ Shelby Recovery Tool aims to provide an organized interface for Android enthusia
 📱 Version Information
 
 - Application: Shelby Recovery Tool
-- Version: 1.5
+- Version: 1.6.0
 - Platform: Android
 - Developer: Shelby Developer
 - Release Year: 2026
@@ -42,8 +42,6 @@ GitHub: https://github.com/gopinqth12/Shelby-Flash-Tool-V2.1
 🌐 Official Community & Support
 
 Telegram Channel: https://t.me/flashzingtoolx
-
-Support Group: https://t.me/Infinix_Note_40_5G_Official
 
 Join the community for announcements, discussions, troubleshooting, and project updates.
 
