@@ -1,61 +1,90 @@
 # Shelby_Rec_Tool
 🖤 Shelby Recovery Tool v1.6.0 ⚡
 
-A New Chapter in Android Device Utilities
+Redefining the Android Utility Experience
 
-Welcome to Shelby Recovery Tool v1.6.0, an Android utility project focused on recovery-related workflows, device management, and a clean, professional user experience.
+Welcome to Shelby Recovery Tool, an Android utility project built around a clear vision: simplify device management, refine recovery-related workflows, and deliver a modern, organized experience for Android enthusiasts and mobile technicians.
 
-🚀 About the Project
+Designed with a distinctive black-and-white identity, Shelby combines a clean interface with a development philosophy centered on usability, consistency, and continuous improvement.
 
-Shelby Recovery Tool aims to provide an organized interface for Android enthusiasts and mobile technicians. The project focuses on improving usability, refining branding, and simplifying access to supported device utilities.
+🚀 About Shelby
 
-✨ Key Highlights
+Shelby Recovery Tool is developed to bring supported Android utility functions into a unified environment. The project emphasizes accessible navigation, consistent branding, and a structured approach to device-related operations.
 
-- 🖤 Premium Shelby branding and black-and-white design.
-- ⚡ Clean, modern, and organized user interface.
-- 🛠️ Recovery-related utilities supported by the application.
-- 📱 Android-focused development and device management.
-- 🔧 Ongoing improvements through testing and feedback.
-- 🎯 Simplified navigation and consistent visual styling.
+Our mission is to keep improving the user experience while exploring practical tools and workflows for Android development and device maintenance.
 
-📱 Version Information
+✨ Core Highlights
 
-- Application: Shelby Recovery Tool
-- Version: 1.6.0
-- Platform: Android
-- Developer: Shelby Developer
-- Release Year: 2026
+- 🖤 Signature Shelby Identity — A distinctive visual style with a premium black-and-white aesthetic.
+- ⚡ Modern User Interface — A clean, minimal, and organized application layout.
+- 🛠️ Recovery-Oriented Utilities — Features for supported Android device management workflows.
+- 📱 Android-Focused Development — Designed around Android utilities and mobile servicing concepts.
+- 🎯 Simplified Navigation — An interface intended to make supported features easier to locate.
+- 🔧 Continuous Refinement — Ongoing development guided by testing, feedback, and improvement.
+- 🌐 Community-Driven Growth — Built with an appreciation for shared knowledge and technical collaboration.
 
-🎨 Credits & Acknowledgements
+📌 Version Details
 
-- UI Design — Raffprkjt: Special thanks for the original UI design and APK that served as the foundation and inspiration for this project.
-- Helper — Massmellow: Thanks for the valuable assistance and support throughout the project.
+Information| Details
+Application| Shelby Recovery Tool
+Version| v1.6.0
+Platform| Android
+Developer| Shelby Developer
+Release Year| 2026
 
-We appreciate everyone who contributed to the project's development and progress.
+🎨 Our Design Philosophy
 
-🖥️ Shelby Flash Tool for Windows
+We believe powerful utilities should be presented through a clear and consistent interface. Shelby follows a minimal design approach that prioritizes readability, organized navigation, and a recognizable visual identity.
 
-Explore the companion project for Windows-based device software workflows.
+Every improvement represents another step toward a more polished and cohesive application experience.
 
-GitHub: https://github.com/gopinqth12/Shelby-Flash-Tool-V2.1
+🙏 Credits & Acknowledgements
+
+This project builds upon the efforts and contributions of others.
+
+- UI Design — Raffprkjt: Special thanks for the user interface design and APK that provided the foundation and inspiration for this project.
+- Technical Assistance — Massmellow: Appreciation for the valuable assistance, and support throughout development.
+- Community & Testers: Thanks to everyone who shares feedback, tests releases, reports issues, and supports the project's progress.
+
+All respective contributors deserve recognition for their work and contributions.
+
+💻 Shelby Flash Tool for Windows
+
+Explore the companion project for Windows-based flashing and device-service workflows.
+
+GitHub Repository:
+https://github.com/gopinqth12/Shelby-Flash-Tool-V2.1
 
 🌐 Official Community & Support
 
-Telegram Channel: https://t.me/flashzingtoolx
+Stay connected with the Shelby community for announcements, project updates, discussions, and support.
 
-Join the community for announcements, discussions, troubleshooting, and project updates.
+- Telegram Channel: https://t.me/flashzingtoolx
+- Infinix Note 40 5G Community: https://t.me/Infinix_Note_40_5G_Official
+- GitHub Repository: https://github.com/gopinqth12/Shelby_Rec_Tool
 
-🔒 Safety & Disclaimer
+🔐 Safety & Disclaimer
 
-Back up important data before performing recovery or firmware operations. Always verify device compatibility and use appropriate firmware. Available functionality depends on the device, permissions, and implementation.
+- Back up important data before performing recovery, firmware, or device-management operations.
+- Verify device compatibility and firmware integrity before proceeding.
+- Incorrect operations may result in data loss, software issues, or an unusable device.
+- Available functionality depends on device compatibility, permissions, and implementation.
+- Use the software only on devices you own or are explicitly authorized to service.
+- This project is intended for legitimate device maintenance, recovery, development, and educational purposes.
 
-This project is intended for legitimate device management, recovery, educational, and technical purposes. Users are responsible for ensuring proper authorization and lawful use.
+The developer is not responsible for damage, data loss, or other issues resulting from improper use.
 
-👨‍💻 Developer's Note
+🔮 The Road Ahead
 
-Developed by Shelby Developer, with a passion for Android software, mobile utilities, firmware workflows, and continuous learning.
+Shelby is an evolving project. Future development may focus on interface refinements, usability improvements, workflow enhancements, and additional supported functionality.
 
-Thank you to everyone who supports the project, tests releases, reports bugs, and shares feedback.
+Community feedback and responsible testing remain valuable parts of the development process.
+
+🖤 A Message from the Developer
+
+Shelby represents a commitment to learning, experimentation, and continuous improvement in Android software development.
+
+Thank you to everyone who explores the project, supports its development, shares feedback, and helps the community grow.
 
 Explore. Learn. Develop. Improve.
 
