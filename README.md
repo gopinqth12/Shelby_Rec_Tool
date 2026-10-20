@@ -3,7 +3,7 @@
 
 A New Chapter in Android Device Utilities
 
-Welcome to Shelby Recovery Tool v1.5, an Android utility project focused on recovery-related workflows, device management, and a clean, professional user experience.
+Welcome to Shelby Recovery Tool v1.6.0, an Android utility project focused on recovery-related workflows, device management, and a clean, professional user experience.
 
 🚀 About the Project
 
