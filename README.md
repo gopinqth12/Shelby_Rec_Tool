@@ -23,14 +23,15 @@ Our mission is to keep improving the user experience while exploring practical t
 - 🔧 Continuous Refinement — Ongoing development guided by testing, feedback, and improvement.
 - 🌐 Community-Driven Growth — Built with an appreciation for shared knowledge and technical collaboration.
 
-📌 Version Details
+<div align="center">📌 Version Details
 
-Information| Details
-Application| Shelby Recovery Tool
-Version| v1.6.0
-Platform| Android
-Developer| Shelby Developer
-Release Year| 2026
+<table>
+<tr><td align="center"><b>Application</b></td><td align="center">Shelby Recovery Tool</td></tr>
+<tr><td align="center"><b>Version</b></td><td align="center">v1.6.0 ⚡</td></tr>
+<tr><td align="center"><b>Platform</b></td><td align="center">Android</td></tr>
+<tr><td align="center"><b>Developer</b></td><td align="center">Shelby Developer</td></tr>
+<tr><td align="center"><b>Release Year</b></td><td align="center">2026</td></tr>
+</table></div>
 
 🎨 Our Design Philosophy
 
