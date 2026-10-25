@@ -1,94 +1,169 @@
 # Shelby_Rec_Tool
-🖤 Shelby Recovery Tool v1.6.0 ⚡
+🖤 Shelby Recovery Tool v1.7
 
-Redefining the Android Utility Experience
+A New Standard for Android Recovery Utilities
 
-Welcome to Shelby Recovery Tool, an Android utility project built around a clear vision: simplify device management, refine recovery-related workflows, and deliver a modern, organized experience for Android enthusiasts and mobile technicians.
+Shelby Recovery Tool is an Android utility project designed to bring essential recovery, flashing, and device-service workflows together in one organized application.
 
-Designed with a distinctive black-and-white identity, Shelby combines a clean interface with a development philosophy centered on usability, consistency, and continuous improvement.
+Version v1.7 introduces a refined user interface built around a pure AMOLED black-and-white aesthetic, streamlined navigation, and clearly organized tools for Android enthusiasts and technicians.
 
-🚀 About Shelby
+The project focuses on usability, consistency, and a clean interface while continuing to develop practical Android service capabilities.
 
-Shelby Recovery Tool is developed to bring supported Android utility functions into a unified environment. The project emphasizes accessible navigation, consistent branding, and a structured approach to device-related operations.
+---
 
-Our mission is to keep improving the user experience while exploring practical tools and workflows for Android development and device maintenance.
+✨ What's New in v1.7
 
-✨ Core Highlights
+- 🖤 AMOLED Black & White UI — A refined monochrome design with deep-black backgrounds and high-contrast typography.
+- 🎨 Theme Selection — Switch between AMOLED Dark and Light modes.
+- 🧭 Redesigned Navigation — Dedicated Home, Menu, Terminal, and Settings sections.
+- ⚡ Flash Tool — Access the scatter-based flashing workspace.
+- 🔐 Shelby Root & Unroot — Dedicated interface for supported boot-image root and restore workflows.
+- 🧩 Partition Manager — Organized access to partition browsing, backup, flashing, and erase operations.
+- 🔓 Bootloader Tools — A dedicated section for supported bootloader and A/B slot operations.
+- 🚀 Shelby GSI Flash — Choose between Normal GSI Flash and Empty Partition GSI methods.
+- 📁 Storage Access Management — Manage the file access required to work with DA files and firmware images.
+- 🌐 Language Preferences — Choose the application language where supported.
+- 🔄 Update Access — Open the GitHub release page to check for newer builds.
+- ℹ️ Improved Settings & About — Access application information and preferences in one place.
 
-- 🖤 Signature Shelby Identity — A distinctive visual style with a premium black-and-white aesthetic.
-- ⚡ Modern User Interface — A clean, minimal, and organized application layout.
-- 🛠️ Recovery-Oriented Utilities — Features for supported Android device management workflows.
-- 📱 Android-Focused Development — Designed around Android utilities and mobile servicing concepts.
-- 🎯 Simplified Navigation — An interface intended to make supported features easier to locate.
-- 🔧 Continuous Refinement — Ongoing development guided by testing, feedback, and improvement.
-- 🌐 Community-Driven Growth — Built with an appreciation for shared knowledge and technical collaboration.
+Feature availability and device compatibility depend on the implementation, Android permissions, connected hardware, and supported workflows.
 
-<div align="center">📌 Version Details
+---
 
-<table>
-<tr><td align="center"><b>Application</b></td><td align="center">Shelby Recovery Tool</td></tr>
-<tr><td align="center"><b>Version</b></td><td align="center">v1.6.0 ⚡</td></tr>
-<tr><td align="center"><b>Platform</b></td><td align="center">Android</td></tr>
-<tr><td align="center"><b>Developer</b></td><td align="center">Shelby Developer</td></tr>
-<tr><td align="center"><b>Release Year</b></td><td align="center">2026</td></tr>
-</table></div>
+🛠️ Main Features
 
-🎨 Our Design Philosophy
+⚡ Flash Tool
 
-We believe powerful utilities should be presented through a clear and consistent interface. Shelby follows a minimal design approach that prioritizes readability, organized navigation, and a recognizable visual identity.
+Access the scatter-based flashing workspace for supported MediaTek device workflows.
 
-Every improvement represents another step toward a more polished and cohesive application experience.
+🔧 Root & Unroot
 
-🙏 Credits & Acknowledgements
+A dedicated interface for supported boot-image patching and restoration operations.
 
-This project builds upon the efforts and contributions of others.
+🧩 Partition Manager
 
-- UI Design — Raffprkjt: Special thanks for the user interface design and APK that provided the foundation and inspiration for this project.
-- Technical Assistance — Massmellow: Appreciation for the valuable assistance, and support throughout development.
-- Community & Testers: Thanks to everyone who shares feedback, tests releases, reports issues, and supports the project's progress.
+Organize partition-related tasks, including browsing, backup, flashing, and erasing where supported.
 
-All respective contributors deserve recognition for their work and contributions.
+🔓 Bootloader
 
-💻 Shelby Flash Tool for Windows
+Access available bootloader and A/B slot management operations.
 
-Explore the companion project for Windows-based flashing and device-service workflows.
+🚀 GSI Flash
 
-GitHub Repository:
-https://github.com/gopinqth12/Shelby-Flash-Tool-V2.1
+Choose the appropriate supported GSI workflow:
 
-🌐 Official Community & Support
+- Method 1 — Normal GSI Flash
+- Method 2 — Empty Partition GSI
 
-Stay connected with the Shelby community for announcements, project updates, discussions, and support.
+Always verify device compatibility, partition requirements, and image integrity before flashing.
 
-- Telegram Channel: https://t.me/flashzingtoolx
+💻 Terminal
+
+Access the application's terminal section for supported command-based workflows.
+
+⚙️ Settings
+
+Customize the application experience through:
+
+- Storage access management
+- AMOLED Dark and Light themes
+- Language preferences
+- About section
+- GitHub update access
+
+---
+
+🎨 Design Philosophy
+
+Shelby Recovery Tool v1.7 follows a minimal, high-contrast design philosophy.
+
+- Pure Black Aesthetic — A dark interface designed around AMOLED-friendly black surfaces.
+- Monochrome Identity — Black, white, and restrained grayscale elements.
+- Clear Information Hierarchy — Bold headings and readable descriptions.
+- Organized Navigation — Easy access to the application's primary sections.
+- Consistent Components — Unified cards, icons, buttons, and navigation elements.
+- Reduced Visual Clutter — A cleaner workspace focused on essential operations.
+
+The objective is simple: combine a professional appearance with a practical, organized Android utility experience.
+
+---
+<h2>📱 Platform &amp; Version</h2><table>
+  <tr>
+    <td align="center" colspan="2"><strong>SHELBY RECOVERY TOOL</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>Shelby Recovery Tool</td>
+  </tr>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td>v1.7</td>
+  </tr>
+  <tr>
+    <td><strong>Platform</strong></td>
+    <td>Android</td>
+  </tr>
+  <tr>
+    <td><strong>Developer</strong></td>
+    <td>Shelby Developer</td>
+  </tr>
+  <tr>
+    <td><strong>Release Year</strong></td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td><strong>Interface</strong></td>
+    <td>AMOLED Dark / Light</td>
+  </tr>
+  <tr>
+    <td><strong>Primary Focus</strong></td>
+    <td>Android recovery and device-service workflows</td>
+  </tr>
+</table>
+---
+
+🔗 Official Project Links
+
+- Shelby Recovery Tool: https://github.com/gopinqth12/Shelby_Rec_Tool
+- GitHub Releases: https://github.com/gopinqth12/Shelby_Rec_Tool/releases
+- Shelby Flash Tool for Windows: https://github.com/gopinqth12/Shelby-Flash-Tool-V2.1
+- Telegram Channel: https://t.me/flashtingtoolx
 - Infinix Note 40 5G Community: https://t.me/Infinix_Note_40_5G_Official
-- GitHub Repository: https://github.com/gopinqth12/Shelby_Rec_Tool
 
-🔐 Safety & Disclaimer
+---
 
-- Back up important data before performing recovery, firmware, or device-management operations.
-- Verify device compatibility and firmware integrity before proceeding.
-- Incorrect operations may result in data loss, software issues, or an unusable device.
-- Available functionality depends on device compatibility, permissions, and implementation.
-- Use the software only on devices you own or are explicitly authorized to service.
-- This project is intended for legitimate device maintenance, recovery, development, and educational purposes.
+⚠️ Safety & Disclaimer
 
-The developer is not responsible for damage, data loss, or other issues resulting from improper use.
+- Back up important personal data before performing recovery or flashing operations.
+- Verify firmware compatibility, device model, region, and partition layout before proceeding.
+- Incorrect images or incompatible firmware may cause boot failures, data loss, or device malfunction.
+- Unlocking the bootloader may erase user data and affect device security.
+- Some operations may require additional permissions, supported hardware, or compatible drivers and tools.
+- Use device-service features only on devices you own or are explicitly authorized to service.
+- Not every feature is guaranteed to work on every Android device or firmware version.
 
-🔮 The Road Ahead
+Use at your own risk. The developer is not responsible for damage, data loss, or other issues resulting from improper use.
 
-Shelby is an evolving project. Future development may focus on interface refinements, usability improvements, workflow enhancements, and additional supported functionality.
+---
 
-Community feedback and responsible testing remain valuable parts of the development process.
+🖤 Acknowledgements
 
-🖤 A Message from the Developer
+Shelby Recovery Tool continues to evolve through development, testing, feedback, and community support.
 
-Shelby represents a commitment to learning, experimentation, and continuous improvement in Android software development.
+Thank you to everyone who follows the project, tests new releases, reports issues, and contributes ideas for improvement.
 
-Thank you to everyone who explores the project, supports its development, shares feedback, and helps the community grow.
+Your support helps Shelby grow into a more polished and capable Android utility project.
 
-Explore. Learn. Develop. Improve.
+---
 
-— Shelby Developer
+🚀 What's Next?
+
+Development may continue with interface refinements, usability improvements, expanded device compatibility, and further enhancements to supported workflows.
+
+Suggestions, bug reports, and constructive feedback are welcome through the project's GitHub repository.
+
+---
+
+Shelby Recovery Tool — Explore. Learn. Develop. Improve.
 
 © 2026 Shelby Developer. All rights reserved.
