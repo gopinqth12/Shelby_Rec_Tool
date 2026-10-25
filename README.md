@@ -88,36 +88,37 @@ The objective is simple: combine a professional appearance with a practical, org
 
 ---
 <h2>📱 Platform &amp; Version</h2><table>
+<h2 align="center">📱 Platform &amp; Version</h2><table align="center">
   <tr>
-    <td align="center" colspan="2"><strong>SHELBY RECOVERY TOOL</strong></td>
+    <th align="center" colspan="2">SHELBY RECOVERY TOOL</th>
   </tr>
   <tr>
-    <td><strong>Application</strong></td>
-    <td>Shelby Recovery Tool</td>
+    <td align="center"><strong>Application</strong></td>
+    <td align="center">Shelby Recovery Tool</td>
   </tr>
   <tr>
-    <td><strong>Version</strong></td>
-    <td>v1.7</td>
+    <td align="center"><strong>Version</strong></td>
+    <td align="center">v1.7</td>
   </tr>
   <tr>
-    <td><strong>Platform</strong></td>
-    <td>Android</td>
+    <td align="center"><strong>Platform</strong></td>
+    <td align="center">Android</td>
   </tr>
   <tr>
-    <td><strong>Developer</strong></td>
-    <td>Shelby Developer</td>
+    <td align="center"><strong>Developer</strong></td>
+    <td align="center">Shelby Developer</td>
   </tr>
   <tr>
-    <td><strong>Release Year</strong></td>
-    <td>2026</td>
+    <td align="center"><strong>Release Year</strong></td>
+    <td align="center">2026</td>
   </tr>
   <tr>
-    <td><strong>Interface</strong></td>
-    <td>AMOLED Dark / Light</td>
+    <td align="center"><strong>Interface</strong></td>
+    <td align="center">AMOLED Dark / Light</td>
   </tr>
   <tr>
-    <td><strong>Primary Focus</strong></td>
-    <td>Android recovery and device-service workflows</td>
+    <td align="center"><strong>Primary Focus</strong></td>
+    <td align="center">Android recovery and device-service workflows</td>
   </tr>
 </table>
 ---
